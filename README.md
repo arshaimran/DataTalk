@@ -1,7 +1,7 @@
 # DataTalk 📊
 ### Chat with your CSV data in plain English — no SQL, no formulas
 
-🔗 **[Live Demo](https://datatalk.streamlit.app)** &nbsp;|&nbsp; Built with Python, Streamlit, and Gemini API
+🔗 **[Live Demo](https://datatalk-tool.streamlit.app)** &nbsp;|&nbsp; Built with Python, Streamlit, and Gemini API
 
 ---
 
