@@ -24,7 +24,8 @@ Upload any CSV file and ask questions about your data in plain English. DataTalk
 
 ## Screenshots
 
-> <img width="959" height="434" alt="Screenshot 2026-06-02 170830" src="https://github.com/user-attachments/assets/686ee5fd-a8c1-4809-a532-da5f36c848fa" />
+>
+<img width="959" height="434" alt="Screenshot 2026-06-02 170830" src="https://github.com/user-attachments/assets/686ee5fd-a8c1-4809-a532-da5f36c848fa" />
 <img width="960" height="432" alt="Screenshot 2026-06-02 173658" src="https://github.com/user-attachments/assets/cd5f5e56-f4e5-43f5-a75b-8d964725be1b" />
 <img width="958" height="433" alt="Screenshot 2026-06-02 173835" src="https://github.com/user-attachments/assets/8908566b-fcc2-49b5-adec-6fbc47f7b16e" />
 
