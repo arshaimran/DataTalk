@@ -37,7 +37,7 @@ Upload any CSV file and ask questions about your data in plain English. DataTalk
 | Layer | Tool |
 |---|---|
 | Frontend / UI | Streamlit |
-| AI Engine | Google Gemini 1.5 Flash |
+| AI Engine | Google Gemini 2.5 Flash |
 | Data Processing | Pandas |
 | Visualization | Matplotlib, Seaborn |
 | Deployment | Streamlit Community Cloud |
